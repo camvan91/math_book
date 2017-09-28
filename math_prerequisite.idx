@@ -1,0 +1,278 @@
+\indexentry{set|hyperpage}{7}
+\indexentry{element|hyperpage}{7}
+\indexentry{member|hyperpage}{7}
+\indexentry{empty set|hyperpage}{8}
+\indexentry{natural number|hyperpage}{8}
+\indexentry{$\mathbb{N}$|hyperpage}{8}
+\indexentry{integer|hyperpage}{8}
+\indexentry{$\mathbb{Z}$|hyperpage}{8}
+\indexentry{rational number|hyperpage}{8}
+\indexentry{$\mathbb{Q}$|hyperpage}{8}
+\indexentry{real number|hyperpage}{8}
+\indexentry{$\mathbb{R}$|hyperpage}{8}
+\indexentry{subset|hyperpage}{8}
+\indexentry{cardinality|hyperpage}{9}
+\indexentry{ordered $n$-tuple|hyperpage}{9}
+\indexentry{ordered pair|hyperpage}{9}
+\indexentry{ordered triple|hyperpage}{9}
+\indexentry{Cartesian product|hyperpage}{10}
+\indexentry{Euclidean $n$-space|hyperpage}{10}
+\indexentry{union|hyperpage}{11}
+\indexentry{intersection|hyperpage}{11}
+\indexentry{disjoint|hyperpage}{11}
+\indexentry{difference of sets|hyperpage}{12}
+\indexentry{universal set|hyperpage}{12}
+\indexentry{complement|hyperpage}{12}
+\indexentry{Commutative laws|hyperpage}{13}
+\indexentry{Associative laws|hyperpage}{13}
+\indexentry{Distributive laws|hyperpage}{13}
+\indexentry{De Morgan's laws|hyperpage}{13}
+\indexentry{indicator function|hyperpage}{14}
+\indexentry{Product Rule|hyperpage}{16}
+\indexentry{permutation|hyperpage}{16}
+\indexentry{factorial|hyperpage}{17}
+\indexentry{symmetric group on $n$ letters|hyperpage}{17}
+\indexentry{$S_n$|hyperpage}{17}
+\indexentry{inversion|hyperpage}{17}
+\indexentry{combination|hyperpage}{17}
+\indexentry{Pascal's Identity|hyperpage}{18}
+\indexentry{Binomial Theorem|hyperpage}{20}
+\indexentry{Binomial Distribution|hyperpage}{21}
+\indexentry{Vandermonde's Identity|hyperpage}{22}
+\indexentry{Hypergeometric Distribution|hyperpage}{22}
+\indexentry{Spearman correlation coefficient|hyperpage}{24}
+\indexentry{Mathematical Induction|hyperpage}{26}
+\indexentry{cumulative distribution function|hyperpage}{29}
+\indexentry{cdf|hyperpage}{29}
+\indexentry{limit of a function|hyperpage}{29}
+\indexentry{continuous|hyperpage}{29}
+\indexentry{limit from the right|hyperpage}{30}
+\indexentry{limit from the left|hyperpage}{30}
+\indexentry{right-continuous|hyperpage}{30}
+\indexentry{left-continuous|hyperpage}{30}
+\indexentry{limit at infinity|hyperpage}{31}
+\indexentry{Squeeze Theorem|hyperpage}{32}
+\indexentry{Euler's number|hyperpage}{32}
+\indexentry{base of natural logarithm|hyperpage}{32}
+\indexentry{Intermediate Value Theorem|hyperpage}{33}
+\indexentry{Bisection Method|hyperpage}{33}
+\indexentry{bounded from below|hyperpage}{34}
+\indexentry{bounded from above|hyperpage}{34}
+\indexentry{lower bound|hyperpage}{34}
+\indexentry{upper bound|hyperpage}{34}
+\indexentry{infimum|hyperpage}{34}
+\indexentry{supremum|hyperpage}{34}
+\indexentry{Extreme Value Theorem|hyperpage}{35}
+\indexentry{probability density function|hyperpage}{37}
+\indexentry{pdf|hyperpage}{37}
+\indexentry{differentiable|hyperpage}{37}
+\indexentry{derivative of $f$ at $a$|hyperpage}{37}
+\indexentry{derivative function|hyperpage}{39}
+\indexentry{derivative|hyperpage}{39}
+\indexentry{Constant Multiple Rule|hyperpage}{40}
+\indexentry{Sum Rule|hyperpage}{40}
+\indexentry{Product Rule|hyperpage}{41}
+\indexentry{Quotient Rule|hyperpage}{41}
+\indexentry{Chain Rule|hyperpage}{41}
+\indexentry{differentiable!twice|hyperpage}{41}
+\indexentry{curvature|hyperpage}{41}
+\indexentry{L'Hopital's Theorem|hyperpage}{41}
+\indexentry{Rolle's Theorem|hyperpage}{43}
+\indexentry{Mean Value Theorem|hyperpage}{43}
+\indexentry{Cauchy Mean Value Theorem|hyperpage}{45}
+\indexentry{local minimum|hyperpage}{46}
+\indexentry{local maximum|hyperpage}{46}
+\indexentry{local extremum|hyperpage}{46}
+\indexentry{critical point|hyperpage}{46}
+\indexentry{Critical Point Theorem|hyperpage}{47}
+\indexentry{Second Derivative Test|hyperpage}{47}
+\indexentry{global maximum|hyperpage}{47}
+\indexentry{global minimum|hyperpage}{47}
+\indexentry{familywise error rate|hyperpage}{48}
+\indexentry{FWER|hyperpage}{48}
+\indexentry{upper sum|hyperpage}{49}
+\indexentry{lower sum|hyperpage}{49}
+\indexentry{integrable function|hyperpage}{50}
+\indexentry{definite integral|hyperpage}{50}
+\indexentry{antiderivative|hyperpage}{53}
+\indexentry{indefinite integral|hyperpage}{53}
+\indexentry{Fundamental Theorem of Calculus|hyperpage}{53}
+\indexentry{odd function|hyperpage}{54}
+\indexentry{even function|hyperpage}{54}
+\indexentry{Young's Inequality|hyperpage}{56}
+\indexentry{Integration by Substitution|hyperpage}{58}
+\indexentry{Change of Variables Formula!one-dimensional|hyperpage}{58}
+\indexentry{Integration by Parts|hyperpage}{59}
+\indexentry{improper integral|hyperpage}{62}
+\indexentry{improper integral!convergent|hyperpage}{62}
+\indexentry{improper integral!divergent|hyperpage}{62}
+\indexentry{sensitivity|hyperpage}{63}
+\indexentry{specificity|hyperpage}{63}
+\indexentry{receiver operating characteristic curve|hyperpage}{63}
+\indexentry{ROC|hyperpage}{63}
+\indexentry{gamma function|hyperpage}{65}
+\indexentry{Gamma Distribution|hyperpage}{66}
+\indexentry{beta function|hyperpage}{66}
+\indexentry{Beta Distribution|hyperpage}{67}
+\indexentry{Exponential Distribution|hyperpage}{67}
+\indexentry{Chi-squared Distribution|hyperpage}{67}
+\indexentry{Normal Distribution|hyperpage}{67}
+\indexentry{Standard Normal Distribution|hyperpage}{67}
+\indexentry{Cauchy Distribution|hyperpage}{68}
+\indexentry{convergence in probability|hyperpage}{68}
+\indexentry{convergence in distribution|hyperpage}{68}
+\indexentry{convergence in law|hyperpage}{68}
+\indexentry{limit of a sequence|hyperpage}{69}
+\indexentry{nondecreasing|hyperpage}{70}
+\indexentry{nonincreasing|hyperpage}{70}
+\indexentry{memoryless property|hyperpage}{71}
+\indexentry{infinite series|hyperpage}{71}
+\indexentry{partial sum|hyperpage}{72}
+\indexentry{harmonic series|hyperpage}{72}
+\indexentry{geometric series|hyperpage}{72}
+\indexentry{common ratio|hyperpage}{72}
+\indexentry{Geometric Distribution|hyperpage}{72}
+\indexentry{Euler's Number|hyperpage}{73}
+\indexentry{power series|hyperpage}{74}
+\indexentry{center of a power series|hyperpage}{74}
+\indexentry{radius of convergence|hyperpage}{75}
+\indexentry{Taylor polynomial|hyperpage}{77}
+\indexentry{Taylor Series Expansion|hyperpage}{78}
+\indexentry{Taylor expansion with remainder|hyperpage}{78}
+\indexentry{Taylor series expansion|hyperpage}{78}
+\indexentry{Poisson Distribution|hyperpage}{79}
+\indexentry{linear equation|hyperpage}{81}
+\indexentry{coefficients of linear equation|hyperpage}{81}
+\indexentry{linear system|hyperpage}{81}
+\indexentry{solution of linear system|hyperpage}{81}
+\indexentry{solution set of linear system|hyperpage}{81}
+\indexentry{equivalent linear systems|hyperpage}{81}
+\indexentry{consistent|hyperpage}{82}
+\indexentry{inconsistent|hyperpage}{82}
+\indexentry{matrix|hyperpage}{82}
+\indexentry{column vector|hyperpage}{82}
+\indexentry{$n$-vector|hyperpage}{82}
+\indexentry{entry|hyperpage}{82}
+\indexentry{element|hyperpage}{82}
+\indexentry{component|hyperpage}{82}
+\indexentry{row vector|hyperpage}{82}
+\indexentry{coefficient matrix|hyperpage}{83}
+\indexentry{augmented matrix|hyperpage}{83}
+\indexentry{backward substitution|hyperpage}{83}
+\indexentry{scaling operation|hyperpage}{84}
+\indexentry{interchange operation|hyperpage}{84}
+\indexentry{replacement operation|hyperpage}{84}
+\indexentry{elementary row operations|hyperpage}{84}
+\indexentry{Gauss-Jordan elimination|hyperpage}{85}
+\indexentry{free variable|hyperpage}{86}
+\indexentry{basic variable|hyperpage}{87}
+\indexentry{row equivalent|hyperpage}{87}
+\indexentry{reduced row echelon form|hyperpage}{87}
+\indexentry{reduced row echelon matrix|hyperpage}{87}
+\indexentry{pivot position|hyperpage}{89}
+\indexentry{pivot column|hyperpage}{89}
+\indexentry{rank|hyperpage}{89}
+\indexentry{matrix!equality|hyperpage}{90}
+\indexentry{matrix!sum|hyperpage}{90}
+\indexentry{scalar multiple of a matrix|hyperpage}{90}
+\indexentry{matrix!difference|hyperpage}{90}
+\indexentry{transpose|hyperpage}{90}
+\indexentry{matrix!zero matrix|hyperpage}{91}
+\indexentry{zero vector|hyperpage}{91}
+\indexentry{matrix!square matrix|hyperpage}{91}
+\indexentry{matrix!upper triangular matrix|hyperpage}{91}
+\indexentry{matrix!lower triangular matrix|hyperpage}{91}
+\indexentry{matrix!diagonal matrix|hyperpage}{91}
+\indexentry{matrix!identity matrix|hyperpage}{91}
+\indexentry{dot product|hyperpage}{92}
+\indexentry{inner product|hyperpage}{92}
+\indexentry{scalar product|hyperpage}{92}
+\indexentry{length of a vector|hyperpage}{93}
+\indexentry{distance|hyperpage}{93}
+\indexentry{unit vector|hyperpage}{93}
+\indexentry{Cauchy-Schwarz Inequality|hyperpage}{93}
+\indexentry{angle between vectors|hyperpage}{93}
+\indexentry{orthogonal vectors|hyperpage}{93}
+\indexentry{perpendicular vectors|hyperpage}{93}
+\indexentry{sample correlation coefficient|hyperpage}{94}
+\indexentry{matrix!product|hyperpage}{94}
+\indexentry{homogeneous|hyperpage}{95}
+\indexentry{norm|hyperpage}{97}
+\indexentry{Hilbert-Schmidt norm|hyperpage}{97}
+\indexentry{Frobenius norm|hyperpage}{97}
+\indexentry{operator norm|hyperpage}{97}
+\indexentry{trace|hyperpage}{97}
+\indexentry{mean-deviation form|hyperpage}{98}
+\indexentry{total variance|hyperpage}{98}
+\indexentry{matrix!invertible|hyperpage}{98}
+\indexentry{matrix!inverse|hyperpage}{98}
+\indexentry{subspace|hyperpage}{100}
+\indexentry{subspace!trivial subspace|hyperpage}{100}
+\indexentry{linear combination|hyperpage}{100}
+\indexentry{weights of linear combination|hyperpage}{100}
+\indexentry{coefficients of linear combination|hyperpage}{100}
+\indexentry{span|hyperpage}{100}
+\indexentry{subspace!spanned by a set of vectors|hyperpage}{102}
+\indexentry{linearly independent|hyperpage}{102}
+\indexentry{linearly dependent|hyperpage}{102}
+\indexentry{basis|hyperpage}{103}
+\indexentry{Spanning Set Theorem|hyperpage}{104}
+\indexentry{dimension|hyperpage}{105}
+\indexentry{null space|hyperpage}{106}
+\indexentry{nullity|hyperpage}{107}
+\indexentry{column space|hyperpage}{107}
+\indexentry{determinant|hyperpage}{110}
+\indexentry{signature|hyperpage}{110}
+\indexentry{minor|hyperpage}{111}
+\indexentry{Invertible Matrix Theorem|hyperpage}{113}
+\indexentry{Vandermonde determinant|hyperpage}{114}
+\indexentry{orthogonal complement|hyperpage}{116}
+\indexentry{orthogonal projection|hyperpage}{116}
+\indexentry{orthogonal decomposition|hyperpage}{116}
+\indexentry{projection matrix|hyperpage}{117}
+\indexentry{simple linear regression|hyperpage}{118}
+\indexentry{residual sum of squares|hyperpage}{118}
+\indexentry{multiple linear regression|hyperpage}{120}
+\indexentry{eigenvector|hyperpage}{121}
+\indexentry{eigenvalue|hyperpage}{121}
+\indexentry{eigenspace|hyperpage}{122}
+\indexentry{geometric multiplicity|hyperpage}{122}
+\indexentry{Markov matrix|hyperpage}{123}
+\indexentry{characteristic polynomial|hyperpage}{124}
+\indexentry{characteristic equation|hyperpage}{124}
+\indexentry{similar|hyperpage}{124}
+\indexentry{diagonalizable|hyperpage}{126}
+\indexentry{Diagonalization Theorem!part 1|hyperpage}{126}
+\indexentry{Diagonalization Theorem!part 2|hyperpage}{127}
+\indexentry{matrix!symmetric|hyperpage}{130}
+\indexentry{matrix!orthogonal|hyperpage}{130}
+\indexentry{spectral decomposition|hyperpage}{130}
+\indexentry{quadratic form|hyperpage}{130}
+\indexentry{positive definite|hyperpage}{130}
+\indexentry{positive semidefinite|hyperpage}{130}
+\indexentry{negative definite|hyperpage}{130}
+\indexentry{negative semidefinite|hyperpage}{130}
+\indexentry{Classical Multidimensional Scaling|hyperpage}{131}
+\indexentry{Hotelling's $T^2$|hyperpage}{134}
+\indexentry{singular value decomposition|hyperpage}{135}
+\indexentry{singular values|hyperpage}{135}
+\indexentry{Principal Component Analysis|hyperpage}{136}
+\indexentry{compound symmetry|hyperpage}{139}
+\indexentry{Rayleigh quotient|hyperpage}{139}
+\indexentry{reduced singular value decomposition|hyperpage}{140}
+\indexentry{continuous|hyperpage}{141}
+\indexentry{partial derivative|hyperpage}{141}
+\indexentry{Leibniz Integral Rule|hyperpage}{142}
+\indexentry{moment generating function|hyperpage}{142}
+\indexentry{Lebesgue's Dominated Convergence Theorem|hyperpage}{143}
+\indexentry{Lebesgue's Monotone Convergence Theorem|hyperpage}{143}
+\indexentry{gradient|hyperpage}{144}
+\indexentry{Hessian|hyperpage}{144}
+\indexentry{critical point|hyperpage}{144}
+\indexentry{multivariate second derivative test|hyperpage}{144}
+\indexentry{quadratic form!differentiation|hyperpage}{146}
+\indexentry{double integral|hyperpage}{148}
+\indexentry{Tonelli's Theorem|hyperpage}{149}
+\indexentry{Fubini's Theorem|hyperpage}{149}
+\indexentry{Change of Variables Formula|hyperpage}{153}
+\indexentry{Liouville's Theorem|hyperpage}{156}
